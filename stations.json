@@ -1,0 +1,437 @@
+[
+  {
+    "lat": 55.6588454,
+    "lon": 12.3522296,
+    "name": "Albertslund station"
+  },
+  {
+    "lat": 55.6725778,
+    "lon": 12.4929013,
+    "name": "Ålholm station"
+  },
+  {
+    "lat": 55.8710875,
+    "lon": 12.3569533,
+    "name": "Allerød station"
+  },
+  {
+    "lat": 55.6397684,
+    "lon": 12.4998659,
+    "name": "Åmarken station"
+  },
+  {
+    "lat": 55.6251316,
+    "lon": 12.4554598,
+    "name": "Avedøre station"
+  },
+  {
+    "lat": 55.7188384,
+    "lon": 12.4435483,
+    "name": "Bagsværd station"
+  },
+  {
+    "lat": 55.7297174,
+    "lon": 12.3582875,
+    "name": "Ballerup station"
+  },
+  {
+    "lat": 55.7434193,
+    "lon": 12.5579397,
+    "name": "Bernstorffsvej station"
+  },
+  {
+    "lat": 55.8403845,
+    "lon": 12.4235029,
+    "name": "Birkerød station"
+  },
+  {
+    "lat": 55.701614649999996,
+    "lon": 12.537726833617686,
+    "name": "Bispebjerg station"
+  },
+  {
+    "lat": 55.6645731,
+    "lon": 12.439197,
+    "name": "Brøndbyøster station"
+  },
+  {
+    "lat": 55.6212653,
+    "lon": 12.423369,
+    "name": "Brøndby Strand station"
+  },
+  {
+    "lat": 55.7471585,
+    "lon": 12.4941762,
+    "name": "Buddinge station"
+  },
+  {
+    "lat": 55.6629987,
+    "lon": 12.5376695,
+    "name": "Carlsberg station"
+  },
+  {
+    "lat": 55.7523361,
+    "lon": 12.5717555,
+    "name": "Charlottenlund station"
+  },
+  {
+    "lat": 55.6637755,
+    "lon": 12.5135924,
+    "name": "Danshøj station"
+  },
+  {
+    "lat": 55.6651403,
+    "lon": 12.5581278,
+    "name": "Dybbølsbro station"
+  },
+  {
+    "lat": 55.7323761,
+    "lon": 12.5360326,
+    "name": "Dyssegård station"
+  },
+  {
+    "lat": 55.7957669,
+    "lon": 12.1593166,
+    "name": "Egedal station"
+  },
+  {
+    "lat": 55.721874,
+    "lon": 12.5409464,
+    "name": "Emdrup station"
+  },
+  {
+    "lat": 55.8121053,
+    "lon": 12.3737085,
+    "name": "Farum station"
+  },
+  {
+    "lat": 55.6854583,
+    "lon": 12.4991767,
+    "name": "Flintholm station"
+  },
+  {
+    "lat": 55.83377475,
+    "lon": 12.066490037796282,
+    "name": "Frederikssund station"
+  },
+  {
+    "lat": 55.8076871,
+    "lon": 12.4685342,
+    "name": "Friheden station"
+  },
+  {
+    "lat": 56.6431381,
+    "lon": 9.7823381,
+    "name": "Fuglebakken station"
+  },
+  {
+    "lat": 55.7535946,
+    "lon": 12.541436,
+    "name": "Gentofte station"
+  },
+  {
+    "lat": 55.6634929,
+    "lon": 12.3975969,
+    "name": "Glostrup station"
+  },
+  {
+    "lat": 49.2441362,
+    "lon": -2.2031184,
+    "name": "Greve station"
+  },
+  {
+    "lat": 55.6906874,
+    "lon": 12.5161914,
+    "name": "Grøndal station"
+  },
+  {
+    "lat": 55.7652202,
+    "lon": 12.4079689,
+    "name": "Hareskov station"
+  },
+  {
+    "lat": 55.730963,
+    "lon": 12.5679557,
+    "name": "Hellerup station"
+  },
+  {
+    "lat": 55.7190798,
+    "lon": 12.4440464,
+    "name": "Herlev station"
+  },
+  {
+    "lat": 55.92684785,
+    "lon": 12.311122795756251,
+    "name": "Hillerød station"
+  },
+  {
+    "lat": 55.6489673,
+    "lon": 12.268557,
+    "name": "Høje Taastrup station"
+  },
+  {
+    "lat": 55.8081675,
+    "lon": 12.4676394,
+    "name": "Holte station"
+  },
+  {
+    "lat": 55.8121053,
+    "lon": 12.3737085,
+    "name": "Høvelte station"
+  },
+  {
+    "lat": 55.5979984,
+    "lon": 12.3340961,
+    "name": "Hundige station"
+  },
+  {
+    "lat": 54.4720689,
+    "lon": 9.0560508,
+    "name": "Husum station"
+  },
+  {
+    "lat": 55.625109,
+    "lon": 12.454207,
+    "name": "Hvidovre station"
+  },
+  {
+    "lat": 55.6133384,
+    "lon": 12.358109,
+    "name": "Ishøj station"
+  },
+  {
+    "lat": 55.7188384,
+    "lon": 12.4435483,
+    "name": "Islev station"
+  },
+  {
+    "lat": 55.7618855,
+    "lon": 12.5215091,
+    "name": "Jægersborg station"
+  },
+  {
+    "lat": 55.5436649,
+    "lon": 12.1171736,
+    "name": "Jersie station"
+  },
+  {
+    "lat": 55.6871452,
+    "lon": 12.4925009,
+    "name": "Jyllingevej station"
+  },
+  {
+    "lat": 55.566255,
+    "lon": 12.2697411,
+    "name": "Karlslunde station"
+  },
+  {
+    "lat": 55.6871452,
+    "lon": 12.4925009,
+    "name": "KB Hallen station"
+  },
+  {
+    "lat": 55.7442236,
+    "lon": 12.5067823,
+    "name": "Kildebakke station"
+  },
+  {
+    "lat": 55.7516467,
+    "lon": 12.286682,
+    "name": "Kildedal station"
+  },
+  {
+    "lat": 55.7769265,
+    "lon": 12.587497,
+    "name": "Klampenborg station"
+  },
+  {
+    "lat": 55.6724527,
+    "lon": 12.5653736,
+    "name": "København H station"
+  },
+  {
+    "lat": 35.41319365,
+    "lon": 134.25130702967473,
+    "name": "Køge station"
+  },
+  {
+    "lat": 55.4993251,
+    "lon": 12.1747102,
+    "name": "Køge Nord station"
+  },
+  {
+    "lat": 55.6668909,
+    "lon": 12.5034498,
+    "name": "Langgade station"
+  },
+  {
+    "lat": 55.7686229,
+    "lon": 12.5036301,
+    "name": "Lyngby station"
+  },
+  {
+    "lat": 59.4029202,
+    "lon": 17.9427547,
+    "name": "Malmparken station"
+  },
+  {
+    "lat": 55.729582,
+    "lon": 12.3590146,
+    "name": "Måløv station"
+  },
+  {
+    "lat": 55.7074271,
+    "lon": 12.5915656,
+    "name": "Nordhavn station"
+  },
+  {
+    "lat": 55.701614649999996,
+    "lon": 12.537726833617686,
+    "name": "Nørrebro station"
+  },
+  {
+    "lat": 55.683359,
+    "lon": 12.5716301,
+    "name": "Nørreport station"
+  },
+  {
+    "lat": 55.6529502,
+    "lon": 12.5159978,
+    "name": "Ny Ellebjerg station"
+  },
+  {
+    "lat": 55.4796089,
+    "lon": 12.1752289,
+    "name": "Ølby station"
+  },
+  {
+    "lat": 55.7957669,
+    "lon": 12.1593166,
+    "name": "Ølstykke station"
+  },
+  {
+    "lat": 55.7523361,
+    "lon": 12.5717555,
+    "name": "Ordrup station"
+  },
+  {
+    "lat": 55.693346,
+    "lon": 12.5883611,
+    "name": "Østerport station"
+  },
+  {
+    "lat": 55.678787,
+    "lon": 12.504183,
+    "name": "Peter Bangs Vej station"
+  },
+  {
+    "lat": 55.6648978,
+    "lon": 12.458883,
+    "name": "Rødovre station"
+  },
+  {
+    "lat": 55.7305908,
+    "lon": 12.566911,
+    "name": "Ryparken station"
+  },
+  {
+    "lat": 55.6397684,
+    "lon": 12.4998659,
+    "name": "Sjælør station"
+  },
+  {
+    "lat": 55.7842235,
+    "lon": 12.4972093,
+    "name": "Skovbrynet station"
+  },
+  {
+    "lat": 55.7188384,
+    "lon": 12.4435483,
+    "name": "Skovlunde station"
+  },
+  {
+    "lat": 55.5333354,
+    "lon": 12.2181028,
+    "name": "Solrød Strand station"
+  },
+  {
+    "lat": 55.795183800000004,
+    "lon": 12.473204140189505,
+    "name": "Sorgenfri station"
+  },
+  {
+    "lat": 55.329475,
+    "lon": 11.9607806,
+    "name": "Stengården station"
+  },
+  {
+    "lat": 55.7957669,
+    "lon": 12.1593166,
+    "name": "Stenløse station"
+  },
+  {
+    "lat": 55.7155342,
+    "lon": 12.5788253,
+    "name": "Svanemøllen station"
+  },
+  {
+    "lat": 55.6546712,
+    "lon": 12.5378027,
+    "name": "Sydhavn station"
+  },
+  {
+    "lat": 55.6524851,
+    "lon": 12.302094,
+    "name": "Taastrup station"
+  },
+  {
+    "lat": 55.7811672,
+    "lon": 12.373768,
+    "name": "Værløse station"
+  },
+  {
+    "lat": 55.6639954,
+    "lon": 12.5144067,
+    "name": "Valby station"
+  },
+  {
+    "lat": 55.6231303,
+    "lon": 12.3885964,
+    "name": "Vallensbæk station"
+  },
+  {
+    "lat": 55.7585639,
+    "lon": 12.520157164206328,
+    "name": "Vangede station"
+  },
+  {
+    "lat": 55.6873412,
+    "lon": 12.4906575,
+    "name": "Vanløse station"
+  },
+  {
+    "lat": 55.749917,
+    "lon": 12.2405908,
+    "name": "Veksø station"
+  },
+  {
+    "lat": 55.6756826,
+    "lon": 12.5623756,
+    "name": "Vesterport station"
+  },
+  {
+    "lat": 55.6629987,
+    "lon": 12.5376695,
+    "name": "Vigerslev Allé station"
+  },
+  {
+    "lat": 55.7957669,
+    "lon": 12.1593166,
+    "name": "Vinge station"
+  },
+  {
+    "lat": 55.795183800000004,
+    "lon": 12.473204140189505,
+    "name": "Virum station"
+  }
+]
